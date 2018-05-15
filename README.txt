@@ -29,3 +29,9 @@ To install:
         should suffice ))
 
 5. Buy 15 donuts and eat them all in one sitting.
+
+-----------------------------------------------------------------------
+
+Ce porjet à été importé sur mon github pour essayer de travailler dessus, et en apprendre davantage.
+
+Le site originel du projet reste visible en première ligne. 
